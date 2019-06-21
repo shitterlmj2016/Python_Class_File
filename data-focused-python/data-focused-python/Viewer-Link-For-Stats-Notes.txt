@@ -1,0 +1,3 @@
+Here is the link for the Statistics Notes:
+
+http://nbviewer.ipython.org/github/jmportilla/Statistics-Notes/tree/master/
