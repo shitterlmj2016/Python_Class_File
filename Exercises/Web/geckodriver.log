@@ -1,0 +1,97 @@
+1537304119525	geckodriver	INFO	geckodriver 0.19.1
+1537304119534	geckodriver	INFO	Listening on 127.0.0.1:50279
+1537304120759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/j0/6nl1fjyx4w36tzw7z78cx0_h40tpc5/T/rust_mozprofile.VWVeQ0bfu4nV"
+1537304121393	Marionette	INFO	Enabled via --marionette
+2018-09-18 16:55:22.136 plugin-container[44122:3446058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537304122499	Marionette	INFO	Listening on port 50291
+2018-09-18 16:55:22.532 plugin-container[44122:3446058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb31f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537304122535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537304122592	Marionette	DEBUG	Register listener.js for window 2147483649
+1537304122623	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1537304123147	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1537304123147	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537304123381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1537304123712	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+2018-09-18 16:55:23.735 firefox-bin[44121:3445944] IMKInputSession [0x12a39a620 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1283fbf40 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-09-18 16:55:35.188 firefox-bin[44121:3445944] IMKInputSession [0x12a39a620 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1283fbf40 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537304160485	geckodriver	INFO	geckodriver 0.19.1
+1537304160488	geckodriver	INFO	Listening on 127.0.0.1:50443
+1537304161569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/j0/6nl1fjyx4w36tzw7z78cx0_h40tpc5/T/rust_mozprofile.kbOel6iYSQG5"
+1537304161912	Marionette	INFO	Enabled via --marionette
+2018-09-18 16:56:02.485 plugin-container[44146:3446973] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-18 16:56:02.617 plugin-container[44146:3446973] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14d17, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537304162773	Marionette	INFO	Listening on port 50455
+1537304162815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537304162852	Marionette	DEBUG	Register listener.js for window 2147483649
+1537304162864	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1537304162977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1537304162977	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537304163129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1537304163431	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+2018-09-18 16:56:13.509 firefox-bin[44145:3446867] IMKInputSession [0x1237b77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x122f26340 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1537304259558	geckodriver	INFO	geckodriver 0.19.1
+1537304259562	geckodriver	INFO	Listening on 127.0.0.1:50988
+1537304259638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/j0/6nl1fjyx4w36tzw7z78cx0_h40tpc5/T/rust_mozprofile.tdIILh2FJkM9"
+1537304259980	Marionette	INFO	Enabled via --marionette
+2018-09-18 16:57:40.568 plugin-container[44220:3449285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-18 16:57:40.703 plugin-container[44220:3449285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb123, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537304260898	Marionette	INFO	Listening on port 50998
+1537304260980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537304261015	Marionette	DEBUG	Register listener.js for window 2147483649
+1537304261610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1537304261709	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1537304261710	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537304261974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1537304262226	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1537304314726	geckodriver	INFO	geckodriver 0.19.1
+1537304314730	geckodriver	INFO	Listening on 127.0.0.1:51371
+1537304314808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/j0/6nl1fjyx4w36tzw7z78cx0_h40tpc5/T/rust_mozprofile.3r9p7bozhewP"
+1537304315171	Marionette	INFO	Enabled via --marionette
+2018-09-18 16:58:35.750 plugin-container[44279:3450368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb10b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-18 16:58:35.882 plugin-container[44279:3450368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb1a7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537304316074	Marionette	INFO	Listening on port 51378
+1537304316155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537304316192	Marionette	DEBUG	Register listener.js for window 2147483649
+1537304316201	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1537304316294	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1537304316294	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537304316445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1537304316755	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1537304316801	Marionette	DEBUG	Received DOM event "popstate" for "http://inventwithpython.com/#automate"
+2018-09-18 16:58:41.737 firefox-bin[44278:3450261] IMKInputSession [0x135512aa0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x120459b80 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-09-18 16:58:44.553 firefox-bin[44278:3450261] IMKInputSession [0x135512aa0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x120459b80 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1537309530100	geckodriver	INFO	geckodriver 0.19.1
+1537309530107	geckodriver	INFO	Listening on 127.0.0.1:60286
+1537309531257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/j0/6nl1fjyx4w36tzw7z78cx0_h40tpc5/T/rust_mozprofile.FhaAkIZPKBbd"
+1537309531912	Marionette	INFO	Enabled via --marionette
+2018-09-18 18:25:33.277 plugin-container[45365:3497907] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-18 18:25:33.535 plugin-container[45365:3497907] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb19f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537309533594	Marionette	INFO	Listening on port 60295
+1537309533695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537309533733	Marionette	DEBUG	Register listener.js for window 2147483649
+1537309533796	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1537309534004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1537309534004	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1537309534386	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+2018-09-18 18:25:37.538 firefox-bin[45364:3497795] IMKInputSession [0x139ed6350 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a34bac0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1537309540886	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1537309541141	Marionette	DEBUG	Received DOM event "popstate" for "http://inventwithpython.com/#automate"
+2018-09-18 19:13:15.041 firefox-bin[45364:3497795] IMKInputSession [0x139ed6350 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a34bac0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-09-18 19:13:17.601 firefox-bin[45364:3497795] IMKInputSession [0x139ed6350 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a34bac0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
